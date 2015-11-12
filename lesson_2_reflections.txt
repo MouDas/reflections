@@ -19,3 +19,7 @@ You can see how the different features and bugs are being worked on
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The code from the branch and the Master are combined. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Gives you the opportunity to ensure proper code is kept
+Cons: Sometimes for obvious stuff still have to resolve conflict
