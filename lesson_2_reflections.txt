@@ -6,3 +6,13 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is a temporary holding place before commiting to the main repository. The working directory is the local directory.
 The staging area files will be tracked if commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Always put the right files with changes in Staging first then commit before moving the other changed files to staging.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you made any major changes you could do it on a different branch.
+
+How do the diagrams help you visualize the branch structure?
+You can see how the different features and bugs are being worked on
