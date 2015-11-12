@@ -16,3 +16,6 @@ If you made any major changes you could do it on a different branch.
 
 How do the diagrams help you visualize the branch structure?
 You can see how the different features and bugs are being worked on
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The code from the branch and the Master are combined. 
