@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If need to access from another machine. If ready to commit to Git Hub.
